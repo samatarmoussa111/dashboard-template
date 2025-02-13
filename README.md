@@ -1,71 +1,76 @@
-🚀 Next.js Dashboard Template with Shadcn
+# 🚀 Next.js Dashboard Template with Shadcn
 
 This project is a template for building a dashboard with Next.js and Shadcn.
 It features:
-✅ A top Navbar with dynamic links✅ A left Sidebar whose items change based on the selected page✅ Modern UI built with Shadcn components
 
-📂 Installation
+- ✅ A top **Navbar** with dynamic links
+- ✅ A left **Sidebar** whose items change based on the selected page
+- ✅ Modern UI built with **Shadcn** components
 
-Clone the repository:
+---
 
-git clone https://github.com/your-username/repository-name.git
+## 📂 Installation
 
-Navigate into the project directory:
+1. **Clone the repository:**
 
-cd repository-name
+   ```bash
+   git clone https://github.com/samatarmoussa111/dashboard-template.git
+   ```
 
-Install dependencies:
+2. **Navigate into the project directory:**
+   ```bash
+   git clone dashboard-template
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+4. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+5. Open your browser and visit http://localhost:3000.
 
-npm install
+## 🚀 Features
 
-Run the development server:
+- 🧩 Dynamic Sidebar: The sidebar updates based on the active page.
 
-npm run dev
+- 💎 Shadcn UI: Beautiful components with TailwindCSS.
 
-Open your browser and visit http://localhost:3000.
+- ⚙️ Next.js App Router: Fast routing with server-side rendering.
 
-🚀 Features
+- 🎨 Fully customizable: Easily adapt the template to your needs.
 
-🧩 Dynamic Sidebar: The sidebar updates based on the active page.
+## 🛠️ Technologies Used
 
-💎 Shadcn UI: Beautiful components with TailwindCSS.
+- Next.js 14 (App Router)
 
-⚙️ Next.js App Router: Fast routing with server-side rendering.
+- Shadcn/ui (UI components)
 
-🎨 Fully customizable: Easily adapt the template to your needs.
+- TailwindCSS (Styling)
 
-🛠️ Technologies Used
+- TypeScript (Type safety)
 
-Next.js 14 (App Router)
+## 🤝 Contributing
 
-Shadcn/ui (UI components)
+1. Fork the repository
 
-TailwindCSS (Styling)
+2. Create a new branch (git checkout -b feature/your-feature)
 
-TypeScript (Type safety)
+3. Commit your changes (git commit -m 'Add new feature')
 
-🤝 Contributing
+4. Push to the branch (git push origin feature/your-feature)
 
-Contributions are welcome! Please follow these steps:
+5. Create a Pull Request
 
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to the branch (git push origin feature/your-feature)
-
-Create a Pull Request
-
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📞 Contact
 
-GitHub: your-username
+- GitHub: [samatarmoussa111](https://github.com/samatarmoussa111)
+- Email: samatarbarkadleh111@gmail.com
+- LinkedIn: [url](https://www.linkedin.com/in/samatar-barkadleh-1155b528a/)
 
-Email: your-email@example.com
-
-Happy coding! 🚀😊
+---
