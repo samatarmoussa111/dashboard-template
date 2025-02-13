@@ -67,10 +67,10 @@ It features:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📞 Contact
+## 📞 Contact
 
 - GitHub: [samatarmoussa111](https://github.com/samatarmoussa111)
 - Email: samatarbarkadleh111@gmail.com
-- LinkedIn: [url](https://www.linkedin.com/in/samatar-barkadleh-1155b528a/)
+- LinkedIn: [samatar-barkadleh](https://www.linkedin.com/in/samatar-barkadleh-1155b528a/)
 
 ---
